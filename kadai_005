@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>私の趣味</title>
+        <meta charset="UTF-8">
+    </head>
+    <br>
+    <body>
+        <p>私は中学時代サッカーを始めました</p>
+        <p>現在はサッカーのコーチとして活動しており、趣味のサッカーは楽しんでおります </p>
+        <img src="image/sample.jpg" alt="">
+        <a href="https://twitter.com/samuraijuku"></a>
+     </body>
+
+</html>
