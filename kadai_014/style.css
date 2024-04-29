@@ -1,0 +1,42 @@
+
+.body {
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.google-fonts {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+/*ルート要素のフォントサイズを20pxにし、h1はその2倍にします。(20px=2rem)*/
+html {
+    font-size: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 2rem;
+    /*h1の文字間は文字の大きさの1.2倍にしてください。*/
+    letter-spacing: 1.2;
+    /*h1の下に3px（カラー：rgb(115, 115, 114)）の実線を付けてください。*/
+    text-decoration: underline;
+    /*h1に影を付けてください。影の大きさや色は自由です。*/
+    text-shadow: 1px 1px 2px gray;
+}
+/*MY PROFILE」の「M」をスカイブルーに、「P」をピンクにしてください。文字色はスカイブルーをキーワードで、ピンクをrgb(255, 192, 203)として指定します。*/
+#text-pink {
+    color: skyblue;
+}
+#text-skyblue{
+    color: rgb(255, 192, 203);
+}
+.m {
+    color: skyblue;
+}
+.p {
+    color: rgb(255, 192, 203);
+}
+
+
